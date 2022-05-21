@@ -24,6 +24,7 @@ exports[`<Main /> should render the heading 1`] = `
 }
 
 .c1 {
+  padding: 2rem;
   width: 25rem;
   margin-bottom: 2rem;
   -webkit-animation: rotateAnimation 15s linear infinite;
@@ -56,7 +57,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h2
     class="c3"
   >
-    Typescript, ReactJS, NextJS and StyledComponents
+    Typescript, ReactJS, NextJS and Styled Components
   </h2>
 </main>
 `;

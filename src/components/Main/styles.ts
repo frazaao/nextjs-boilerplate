@@ -12,6 +12,7 @@ export const Wrapper = styled.main`
 `;
 
 export const Logo = styled.img`
+  padding: 2rem;
   width: 25rem;
   margin-bottom: 2rem;
   animation: rotateAnimation 15s linear infinite;
